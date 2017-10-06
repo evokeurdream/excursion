@@ -5,6 +5,10 @@ body {
   color: white
 }
 
+h1 {
+  font-size: 50px
+}
+
 .download {
   color: aquamarine;
   font-size: 16px;
