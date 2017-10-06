@@ -22,3 +22,9 @@ body {
   font-size: 42px;
   color: white
 }
+
+.excursion_places_text {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray
+}
