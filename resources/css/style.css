@@ -2,11 +2,12 @@ body {
   font-family: Verdana;
   background-color: black;
   text-align: center;
-  color: white
+  color: white;
 }
 
 h1 {
-  font-size: 50px
+  font-size: 50px;
+  font-weight: normal;
 }
 
 .download {
