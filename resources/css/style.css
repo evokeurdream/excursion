@@ -3,9 +3,15 @@ h1 {
   font-size: 50px;
   color: white;
   font-weight: normal;
-  text-align: center;
-}
+  }
 
 body {
   background-color: black;
+  text-align: center;
+}
+
+.underline_download {
+  text-decoration: underline;
+  color: aquamarine;
+  font-size: 16px;
 }
